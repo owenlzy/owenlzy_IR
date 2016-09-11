@@ -1,0 +1,11 @@
+.\Obj\expression.o: ..\USER\xlib\Picoc\core\expression.c
+.\Obj\expression.o: ..\USER\xlib\Picoc\interpreter.h
+.\Obj\expression.o: ..\USER\xlib\Picoc\platform.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\expression.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

@@ -1,0 +1,12 @@
+.\Obj\stdio.o: ..\USER\xlib\Picoc\cstdlib\stdio.c
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\errno.h
+.\Obj\stdio.o: ..\USER\xlib\Picoc\cstdlib\../interpreter.h
+.\Obj\stdio.o: ..\USER\xlib\Picoc\cstdlib\../platform.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\stdio.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

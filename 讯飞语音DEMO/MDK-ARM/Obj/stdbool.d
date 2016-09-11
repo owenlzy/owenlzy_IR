@@ -1,0 +1,11 @@
+.\Obj\stdbool.o: ..\USER\xlib\Picoc\cstdlib\stdbool.c
+.\Obj\stdbool.o: ..\USER\xlib\Picoc\cstdlib\../interpreter.h
+.\Obj\stdbool.o: ..\USER\xlib\Picoc\cstdlib\../platform.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\stdbool.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

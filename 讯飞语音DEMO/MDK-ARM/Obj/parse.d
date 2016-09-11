@@ -1,0 +1,12 @@
+.\Obj\parse.o: ..\USER\xlib\Picoc\core\parse.c
+.\Obj\parse.o: ..\USER\xlib\Picoc\picoc.h
+.\Obj\parse.o: ..\USER\xlib\Picoc\interpreter.h
+.\Obj\parse.o: ..\USER\xlib\Picoc\platform.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\parse.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

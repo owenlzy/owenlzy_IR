@@ -1,0 +1,11 @@
+.\Obj\stdlib.o: ..\USER\xlib\Picoc\cstdlib\stdlib.c
+.\Obj\stdlib.o: ..\USER\xlib\Picoc\cstdlib\../interpreter.h
+.\Obj\stdlib.o: ..\USER\xlib\Picoc\cstdlib\../platform.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\stdlib.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

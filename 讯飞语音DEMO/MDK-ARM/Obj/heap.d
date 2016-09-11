@@ -1,0 +1,11 @@
+.\Obj\heap.o: ..\USER\xlib\Picoc\core\heap.c
+.\Obj\heap.o: ..\USER\xlib\Picoc\interpreter.h
+.\Obj\heap.o: ..\USER\xlib\Picoc\platform.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\heap.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h

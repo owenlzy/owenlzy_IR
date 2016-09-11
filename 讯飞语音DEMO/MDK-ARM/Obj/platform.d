@@ -1,0 +1,12 @@
+.\Obj\platform.o: ..\USER\xlib\Picoc\core\platform.c
+.\Obj\platform.o: ..\USER\xlib\Picoc\picoc.h
+.\Obj\platform.o: ..\USER\xlib\Picoc\interpreter.h
+.\Obj\platform.o: ..\USER\xlib\Picoc\platform.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\setjmp.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Obj\platform.o: C:\Keil\ARM\ARMCC\bin\..\include\assert.h
